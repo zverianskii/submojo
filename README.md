@@ -23,6 +23,8 @@ sm add -i <repo_index_from_list>
 
 Current index: https://gist.github.com/zverianskii/185aaea9e26702e50fc035411ae6cdf5
 
+Want to add something to the index? PRs welcomed!
+
 Don't like it?
 1. create a gist with the same structure
 2. set env variable MOJO_PACKAGES_INDEX_URL
